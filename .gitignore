@@ -1,0 +1,30 @@
+# Input data and generated outputs
+/data/
+/results/
+*.xls
+*.xlsx
+*.csv
+*.tsv
+*.rds
+*.RDS
+*.svg
+*.png
+*.pdf
+*.html
+
+# Local annotation / reference databases
+/eggnog_data/
+*.dmnd
+go-basic.obo
+ko_by_gene.tsv
+ko2pathway.tsv
+pathway_names.tsv
+
+# R / editor / OS
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.DS_Store
+Thumbs.db
+
